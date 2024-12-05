@@ -61,7 +61,7 @@ In the following figure you can get an idea on where the companies inside the ma
 
 # Contact
 In case you need some further details you can contact directly me. <br><br>
-<a href="mailto:amatofrancesco99@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="mailto:khedkarlaxman823@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 ***
 
